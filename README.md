@@ -28,7 +28,7 @@
 <h2>Interests:</h2>
 
 <div style="display: inline_grid">
-    <img align="right" src="https://readme-jokes.vercel.app/api?borderColor=white&theme=algolia" alt="Jokes Card" />
+   <img align="right" src="https://readme-jokes.vercel.app/api?borderColor=white&theme=algolia" alt="Jokes Card" />
   <li>cybersecurit</li>
   <li>basketball</li>
   <li>working out</li>
