@@ -34,7 +34,7 @@
 
 <div style="display: inline_grid">
    <img align="right" height="200px" src="https://readme-jokes.vercel.app/api?borderColor=white&theme=algolia" alt="Jokes Card" />
-  <li>cybersecurit</li>
+  <li>cybersecurity</li>
   <li>basketball</li>
   <li>working out</li>
   <li>cats & dogs</li>
