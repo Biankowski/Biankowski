@@ -8,6 +8,8 @@
 <h2>About me:</h2>
 <p> I'm a brazilian Software Engineer student.</p>
 
+<br>
+
 <h2>Skills:</h2>
 
 <div style="display: inline_grid"><br>
@@ -24,7 +26,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <h2>Interests:</h2>
 
@@ -37,12 +38,16 @@
 
 </div>
 
-
+<br>
+<br>
+<br>
 
 <h2>How to find me:</h2>
     <a href="https://www.linkedin.com/in/biankowski/" target="_blank">
         <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
     </a>
 <br>
+<br>
 
 ![Snake animation](https://github.com/Biankowski/Biankowski/blob/output/github-contribution-grid-snake.svg)
+
