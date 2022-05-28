@@ -11,11 +11,11 @@
 <h2>Skills:</h2>
 
 <div style="display: inline_grid"><br>
-  <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rodrigo-dotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Rodrigo-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Rodrigo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Rodrigo-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rodrigo-dotNet" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Rodrigo-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rodrigo-linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Rodrigo-git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biankowski&layout=compact&langs_count=7&theme=algolia"/>
 
 </div>
@@ -24,11 +24,12 @@
 <br>
 <br>
 <br>
+<br>
 
 <h2>Interests:</h2>
 
 <div style="display: inline_grid">
-   <img align="right" src="https://readme-jokes.vercel.app/api?borderColor=white&theme=algolia" alt="Jokes Card" />
+   <img align="right" height="200px" src="https://readme-jokes.vercel.app/api?borderColor=white&theme=algolia" alt="Jokes Card" />
   <li>cybersecurit</li>
   <li>basketball</li>
   <li>working out</li>
