@@ -18,7 +18,6 @@
   <img align="center" alt="Rodrigo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rodrigo-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biankowski&layout=compact&langs_count=7&theme=algolia"/>
 
 </div>
 
